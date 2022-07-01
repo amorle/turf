@@ -1,6 +1,6 @@
 {
   "name": "@turf/quadrat-analysis",
-  "version": "6.5.0",
+  "version": "6.5.1",
   "description": "turf quadrat-analysis module",
   "author": "Turf Authors",
   "contributors": [
@@ -47,7 +47,7 @@
     "test:tape": "ts-node -r esm test.js"
   },
   "devDependencies": {
-    "@turf/nearest-neighbor-analysis": "^6.5.0",
+    "@turf/nearest-neighbor-analysis": "^6.5.1",
     "@types/tape": "^4.13.2",
     "benchmark": "^2.1.4",
     "load-json-file": "^7.0.1",
@@ -59,15 +59,15 @@
     "write-json-file": "^4.3.0"
   },
   "dependencies": {
-    "@turf/area": "^6.5.0",
-    "@turf/bbox": "^6.5.0",
-    "@turf/bbox-polygon": "^6.5.0",
-    "@turf/centroid": "^6.5.0",
-    "@turf/helpers": "^6.5.0",
-    "@turf/invariant": "^6.5.0",
-    "@turf/point-grid": "^6.5.0",
-    "@turf/random": "^6.5.0",
-    "@turf/square-grid": "^6.5.0",
+    "@turf/area": "^6.5.1",
+    "@turf/bbox": "^6.5.1",
+    "@turf/bbox-polygon": "^6.5.1",
+    "@turf/centroid": "^6.5.1",
+    "@turf/helpers": "^6.5.1",
+    "@turf/invariant": "^6.5.1",
+    "@turf/point-grid": "^6.5.1",
+    "@turf/random": "^6.5.1",
+    "@turf/square-grid": "^6.5.1",
     "tslib": "^2.3.0"
   }
 }

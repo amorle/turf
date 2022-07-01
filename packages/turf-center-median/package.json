@@ -1,6 +1,6 @@
 {
   "name": "@turf/center-median",
-  "version": "6.5.0",
+  "version": "6.5.1",
   "description": "turf center-median module",
   "author": "Turf Authors",
   "contributors": [
@@ -47,10 +47,10 @@
     "test:tape": "ts-node -r esm test.js"
   },
   "devDependencies": {
-    "@turf/center": "^6.5.0",
-    "@turf/center-of-mass": "^6.5.0",
-    "@turf/random": "^6.5.0",
-    "@turf/truncate": "^6.5.0",
+    "@turf/center": "^6.5.1",
+    "@turf/center-of-mass": "^6.5.1",
+    "@turf/random": "^6.5.1",
+    "@turf/truncate": "^6.5.1",
     "@types/tape": "^4.13.2",
     "benchmark": "^2.1.4",
     "load-json-file": "^7.0.1",
@@ -62,11 +62,11 @@
     "write-json-file": "^4.3.0"
   },
   "dependencies": {
-    "@turf/center-mean": "^6.5.0",
-    "@turf/centroid": "^6.5.0",
-    "@turf/distance": "^6.5.0",
-    "@turf/helpers": "^6.5.0",
-    "@turf/meta": "^6.5.0",
+    "@turf/center-mean": "^6.5.1",
+    "@turf/centroid": "^6.5.1",
+    "@turf/distance": "^6.5.1",
+    "@turf/helpers": "^6.5.1",
+    "@turf/meta": "^6.5.1",
     "tslib": "^2.3.0"
   }
 }

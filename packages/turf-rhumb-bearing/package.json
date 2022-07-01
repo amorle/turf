@@ -1,6 +1,6 @@
 {
   "name": "@turf/rhumb-bearing",
-  "version": "6.5.0",
+  "version": "6.5.1",
   "description": "turf rhumb-bearing module",
   "author": "Turf Authors",
   "contributors": [
@@ -52,7 +52,7 @@
     "test:tape": "ts-node -r esm test.js"
   },
   "devDependencies": {
-    "@turf/destination": "^6.5.0",
+    "@turf/destination": "^6.5.1",
     "@types/tape": "^4.13.2",
     "benchmark": "^2.1.4",
     "npm-run-all": "*",
@@ -63,8 +63,8 @@
     "write-json-file": "^4.3.0"
   },
   "dependencies": {
-    "@turf/helpers": "^6.5.0",
-    "@turf/invariant": "^6.5.0",
+    "@turf/helpers": "^6.5.1",
+    "@turf/invariant": "^6.5.1",
     "tslib": "^2.3.0"
   }
 }
