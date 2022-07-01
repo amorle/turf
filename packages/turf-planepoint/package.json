@@ -47,10 +47,10 @@
     "test:types": "tsc --esModuleInterop --noEmit types.ts"
   },
   "devDependencies": {
-    "benchmark": "*",
+    "benchmark": "^2.1.4",
     "npm-run-all": "*",
     "rollup": "*",
-    "tape": "*"
+    "tape": "^5.5.3"
   },
   "dependencies": {
     "@turf/helpers": "^6.5.0",

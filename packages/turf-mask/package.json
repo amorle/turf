@@ -45,13 +45,13 @@
     "test:types": "tsc --esModuleInterop --noEmit types.ts"
   },
   "devDependencies": {
-    "benchmark": "*",
-    "load-json-file": "*",
-    "mkdirp": "*",
+    "benchmark": "^2.1.4",
+    "load-json-file": "^7.0.1",
+    "mkdirp": "^1.0.4",
     "npm-run-all": "*",
     "rollup": "*",
-    "tape": "*",
-    "write-json-file": "*"
+    "tape": "^5.5.3",
+    "write-json-file": "^4.3.0"
   },
   "dependencies": {
     "@turf/helpers": "^6.5.0",

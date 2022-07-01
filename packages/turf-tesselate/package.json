@@ -53,13 +53,13 @@
     "test:tape": "node -r esm test.js"
   },
   "devDependencies": {
-    "benchmark": "*",
+    "benchmark": "^2.1.4",
     "npm-run-all": "*",
     "rollup": "*",
-    "tape": "*"
+    "tape": "^5.5.3"
   },
   "dependencies": {
     "@turf/helpers": "^6.5.0",
-    "earcut": "^2.0.0"
+    "earcut": "^2.2.3"
   }
 }

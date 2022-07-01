@@ -51,12 +51,12 @@
   "devDependencies": {
     "@turf/random": "^6.5.0",
     "@turf/truncate": "^6.5.0",
-    "benchmark": "*",
-    "load-json-file": "*",
+    "benchmark": "^2.1.4",
+    "load-json-file": "^7.0.1",
     "npm-run-all": "*",
     "rollup": "*",
-    "tape": "*",
-    "write-json-file": "*"
+    "tape": "^5.5.3",
+    "write-json-file": "^4.3.0"
   },
   "dependencies": {
     "@turf/center-mean": "^6.5.0",

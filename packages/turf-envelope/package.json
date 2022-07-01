@@ -46,11 +46,11 @@
     "test:tape": "node -r esm test.js"
   },
   "devDependencies": {
-    "benchmark": "*",
-    "load-json-file": "*",
+    "benchmark": "^2.1.4",
+    "load-json-file": "^7.0.1",
     "npm-run-all": "*",
     "rollup": "*",
-    "tape": "*"
+    "tape": "^5.5.3"
   },
   "dependencies": {
     "@turf/bbox": "^6.5.0",

@@ -45,13 +45,13 @@
     "test:tape": "node -r esm test.js"
   },
   "devDependencies": {
-    "benchmark": "*",
-    "geojson-fixtures": "*",
-    "load-json-file": "*",
+    "benchmark": "^2.1.4",
+    "geojson-fixtures": "^1.0.0",
+    "load-json-file": "^7.0.1",
     "npm-run-all": "*",
     "rollup": "*",
-    "tape": "*",
-    "write-json-file": "*"
+    "tape": "^5.5.3",
+    "write-json-file": "^4.3.0"
   },
   "dependencies": {
     "@turf/helpers": "^6.5.0",

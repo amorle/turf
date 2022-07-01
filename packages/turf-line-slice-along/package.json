@@ -45,11 +45,11 @@
   },
   "devDependencies": {
     "@turf/along": "^6.5.0",
-    "benchmark": "*",
-    "load-json-file": "*",
+    "benchmark": "^2.1.4",
+    "load-json-file": "^7.0.1",
     "npm-run-all": "*",
     "rollup": "*",
-    "tape": "*"
+    "tape": "^5.5.3"
   },
   "dependencies": {
     "@turf/bearing": "^6.5.0",

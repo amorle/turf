@@ -49,16 +49,16 @@
     "test:tape": "node -r esm test.js"
   },
   "devDependencies": {
-    "benchmark": "*",
-    "load-json-file": "*",
+    "benchmark": "^2.1.4",
+    "load-json-file": "^7.0.1",
     "npm-run-all": "*",
     "rollup": "*",
-    "tape": "*",
-    "write-json-file": "*"
+    "tape": "^5.5.3",
+    "write-json-file": "^4.3.0"
   },
   "dependencies": {
     "@turf/bbox": "^6.5.0",
-    "@turf/geojson-rbush": "^3.2.0",
+    "@turf/geojson-rbush": "^3.2.1",
     "@turf/helpers": "^6.5.0",
     "@turf/invariant": "^6.5.0",
     "@turf/line-intersect": "^6.5.0",

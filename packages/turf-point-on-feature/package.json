@@ -49,10 +49,10 @@
   "devDependencies": {
     "@turf/meta": "^6.5.0",
     "@turf/truncate": "^6.5.0",
-    "benchmark": "*",
+    "benchmark": "^2.1.4",
     "npm-run-all": "*",
     "rollup": "*",
-    "tape": "*"
+    "tape": "^5.5.3"
   },
   "dependencies": {
     "@turf/boolean-point-in-polygon": "^6.5.0",
